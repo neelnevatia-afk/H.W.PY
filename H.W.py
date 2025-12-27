@@ -9,4 +9,5 @@ friends_birthdays = {
 }
 
 
-print("Raj asked his friends about their birthdays. Here are the details:\n")
+
+print("Raj asked his friends about their birthdays. Here are the details:\n",friends_birthdays)
